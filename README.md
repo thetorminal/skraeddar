@@ -46,74 +46,61 @@ npm --version
 
 ### 🚀 Installation Steps
 
-Step 1: Extract the ZIP file
-Extract the downloaded ZIP file from this repo to your desired location.
-
-Step 2: Open Terminal/Command Prompt
-Navigate to the project folder:
+1. Extract the downloaded ZIP file from this repo to your desired location.
+2. Open Terminal/Command Prompt
+3. Navigate to the project folder:  
 ```bash
 cd path/to/skadis-generator
 ```
-
-Step 3: Install Dependencies
-Install all required packages:
+4. Install all required packages:  
 ```bash
 npm install
 ```
-
-This will download and install all necessary dependencies. This may take a few minutes.
-
-Step 4: Start Development Server
-Start the local development server:
+5. This will download and install all necessary dependencies. This may take a few minutes.  
+6. Start the local development server:  
 ```bash
 npm run dev
 ```
-
-You should see output similar to:
+7. You should see output similar to:  
 ```
   VITE v5.x.x  ready in XXX ms
 
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
 ```
-
-Step 5: Open in Browser
-Open your web browser and navigate to:
+8. Open your web browser and navigate to:  
 ```
 http://localhost:5173
 ```
 
-🎉 **You should now see the SKÅDIS Generator running!**
+🎉 **You should now see the SKÅDIS Generator running!**  
 
-### 📦 Building for Production
-
-To create a production-ready build:
-
+### 📦 Building for Production  
+1. To create a production-ready build:  
 ```bash
 npm run build
 ```
+2. The built files will be in the `dist/` folder. You can upload these files to any web hosting service.  
 
-The built files will be in the `dist/` folder. You can upload these files to any web hosting service.
+### 🐛 Troubleshooting  
 
-### 🐛 Troubleshooting
-
-"command not found: npm"
+"command not found: npm"  
 - Install Node.js from [nodejs.org](https://nodejs.org/)
 
-Port already in use
-- Change the port: `npm run dev -- --port 3000`
+Port already in use  
+- Change the port: `npm run dev -- --port 3000`  
 - Or kill the process using the port
 
-Build errors
-- Delete `node_modules` folder
-- Delete `package-lock.json`
+Build errors  
+- Delete `node_modules` folder  
+- Delete `package-lock.json`  
 - Run `npm install` again
 
-Three.js warnings
-- These are normal and don't affect functionality
-- The project uses Three.js r128 for compatibility
+Three.js warnings  
+- These are normal and don't affect functionality  
+- The project uses Three.js r128 for compatibility  
 
-## 🤝 Credits
+## 🤝 Credits  
 
 - Built with the help of [Claude AI](https://claude.ai)
 - Impressum: [torminal.com/impressum](https://torminal.com/impressum/)
