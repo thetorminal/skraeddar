@@ -1,3 +1,7 @@
+| :exclamation:        Work in progress - repository not finished!  |
+|------------------------------------------|
+
+
 # Skräddar: A custom IKEA SKADIS pegboard generator for 3D Printing
 Need to create a specific SKADIS Pegboard for 3D Printing? Use the Skräddar generator to get your desired dimensions (export as .stl)!
 
