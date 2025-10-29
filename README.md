@@ -16,6 +16,9 @@ Need to create a specific SKADIS Pegboard for 3D Printing? Use the Skräddar gen
 * export as .stl for your 3D Print
 * Select, if you want holes for mounting the pegboard (with spacers)
 
+## Preview
+![skraeddar-preview](https://github.com/user-attachments/assets/655b3b70-e0e2-4c5a-81fe-cbb70849a18a)
+
 ---
 
 ## "Making of"
