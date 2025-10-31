@@ -631,16 +631,6 @@ const SkadisGenerator = () => {
 
         <div className="flex-1 relative min-h-[300px] md:min-h-0">
           <div ref={mountRef} className="w-full h-full min-h-[300px]" />
-          <div className="absolute bottom-4 left-4 bg-white/90 backdrop-blur-sm rounded-lg p-3 shadow-lg text-xs">
-            <div className="flex items-center gap-2 mb-2">
-              <span className="font-semibold">Skräddar</span>
-            </div>
-            <div className="space-y-1 text-gray-600">
-              <p>Created by: <a href="https://torminal.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">torminal</a></p>
-              <p>Github: <a href="https://github.com/thetorminal/skraeddar" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Skräddar</a></p>
-              <p><a href="https://torminal.com/impressum/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Impressum</a></p>
-            </div>
-          </div>
         </div>
       </div>
     </div>
