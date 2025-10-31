@@ -46,7 +46,7 @@ npm --version
 2. Open Terminal/Command Prompt
 3. Navigate to the project folder:  
 ```bash
-cd path/to/skadis-generator
+cd path/to/skraeddar
 ```
 4. Install all required packages:  
 ```bash
