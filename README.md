@@ -7,7 +7,7 @@ Need to create a specific [SKADIS Pegboard](https://www.ikea.com/de/en/p/skadis-
 ---
 
 ## What is Skräddar
-* Skräddar allows you to create custom [IKEA SKADIS Pegboard](https://www.ikea.com/de/en/p/skadis-pegboard-white-00320803/) for 3D Printing!
+* Skräddar allows you to create custom [IKEA SKADIS](https://www.ikea.com/de/en/p/skadis-pegboard-white-00320803/) Pegboard for 3D Printing!
 * set custom width, height and thickness of the pegboard
 * export as .stl for your 3D Print
 * Select, if you want holes for mounting the pegboard (with spacers)
@@ -31,7 +31,7 @@ Also visit https://skapa.build/ - Skräddar is strongly inspired from it (it doe
 
 Before you begin, make sure you have the following installed on your computer:
 
-- **Node.js** (version 18 or higher) - [Download here](https://nodejs.org/)
+- **Node.js** (version 20 or higher) - [Download here](https://nodejs.org/)
 - **npm** (comes with Node.js)
 
 To check if Node.js is installed, open your terminal/command prompt and run:
