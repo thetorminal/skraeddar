@@ -1,5 +1,5 @@
-# Skräddar: A custom [IKEA SKADIS pegboard](https://www.ikea.com/de/en/p/skadis-pegboard-white-00320803/) generator for 3D Printing
-Need to create a specific [SKADIS Pegboard](https://www.ikea.com/de/en/p/skadis-pegboard-white-00320803/) for 3D Printing? Use the Skräddar generator to get your desired dimensions (export as .stl)!
+# Skräddar: A custom [IKEA SKADIS](https://www.ikea.com/de/en/p/skadis-pegboard-white-00320803/) pegboard generator for 3D Printing
+Need to create a specific [SKADIS](https://www.ikea.com/de/en/p/skadis-pegboard-white-00320803/) pegboard for 3D Printing? Use the Skräddar generator to get your desired dimensions (export as .stl)!
 
 | :zap:        Visit [skraeddar.torminal.com](https://skraeddar.torminal.com) to view this project  |
 |------------------------------------------|
