@@ -517,8 +517,8 @@ const SkadisGenerator = () => {
         </div>
       </div>
 
-      <div className="flex flex-1 overflow-hidden flex-col md:flex-row">
-        <div className="w-full md:w-80 bg-white border-b md:border-r md:border-b-0 border-gray-200 p-4 md:p-6 overflow-y-auto">
+      <div className="flex flex-1 overflow-hidden flex-col md:flex-row min-h-0">
+        <div className="w-full md:w-80 md:flex-shrink-0 bg-white border-b md:border-r md:border-b-0 border-gray-200 p-4 md:p-6 overflow-y-auto max-h-[40vh] md:max-h-none">
           <h2 className="text-base md:text-lg font-semibold mb-4 text-gray-900">Settings</h2>
           
           <div className="space-y-4 md:space-y-6">
@@ -629,17 +629,16 @@ const SkadisGenerator = () => {
           </div>
         </div>
 
-        <div className="flex-1 relative">
-          <div ref={mountRef} className="w-full h-full" />
+        <div className="flex-1 relative min-h-[300px] md:min-h-0">
+          <div ref={mountRef} className="w-full h-full min-h-[300px]" />
           <div className="absolute bottom-4 left-4 bg-white/90 backdrop-blur-sm rounded-lg p-3 shadow-lg text-xs">
             <div className="flex items-center gap-2 mb-2">
-              <Logo />
-              <span className="font-semibold">SKÅDIS Generator</span>
+              <span className="font-semibold">Skräddar</span>
             </div>
             <div className="space-y-1 text-gray-600">
-              <p>Created by: <a href="https://torminal.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">torminal.com</a></p>
-              <p>With the help of: <a href="https://claude.ai" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">claude.ai</a></p>
-              <p>Impressum: <a href="https://torminal.com/impressum/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">torminal.com/impressum</a></p>
+              <p>Created by: <a href="https://torminal.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">torminal</a></p>
+              <p>Github: <a href="https://github.com/thetorminal/skraeddar" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Skräddar</a></p>
+              <p><a href="https://torminal.com/impressum/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Impressum</a></p>
             </div>
           </div>
         </div>
