@@ -13,7 +13,7 @@ Need to create a specific [SKADIS](https://www.ikea.com/de/en/p/skadis-pegboard-
 * Select, if you want holes for mounting the pegboard (with spacers)
 
 ## Preview
-![skraeddar-preview](https://github.com/user-attachments/assets/655b3b70-e0e2-4c5a-81fe-cbb70849a18a)
+![skraeddar_preview](https://github.com/user-attachments/assets/1c763fbe-fbe2-40d7-ba89-f8b41f4c6be4)
 
 ---
 
