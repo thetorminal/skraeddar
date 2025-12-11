@@ -1,4 +1,4 @@
-# Skräddar: A custom pegboard generator for 3D Printing
+# Skrädda: A custom pegboard generator for 3D Printing
 Need to create a specific pegboard for 3D Printing? Use the Skräddar generator to get your desired dimensions (export as .stl)!
 
 | :zap:        Visit [skraeddar.torminal.com](https://skraeddar.torminal.com) to view this project  |
@@ -6,28 +6,28 @@ Need to create a specific pegboard for 3D Printing? Use the Skräddar generator 
 
 ---
 
-## What is Skräddar
-* Skräddar allows you to create custom pegboards (based on the [IKEA SKADIS](https://www.ikea.com/de/en/p/skadis-pegboard-white-00320803/)) for 3D Printing!
+## What is Skrädda
+* Skrädda allows you to create custom pegboards (based on the [IKEA SKADIS](https://www.ikea.com/de/en/p/skadis-pegboard-white-00320803/)) for 3D Printing!
 * set custom width, height and thickness of the pegboard
 * export as .stl for your 3D Print
 * Select, if you want holes for mounting the pegboard (with spacers)
 
 ## Preview
-![skraeddar_preview](https://github.com/user-attachments/assets/1c763fbe-fbe2-40d7-ba89-f8b41f4c6be4)
+![skraedda_preview](https://github.com/user-attachments/assets/1c763fbe-fbe2-40d7-ba89-f8b41f4c6be4)
 
 ---
 
 ## "Making of"
 **The build**  
 I am honest - this is build with a lot of support from https://claude.ai. The basic structure was generated, the code was edited from me until i liked it - so not completely "vibe-coded".  
-If you dont trust the website [skraeddar.torminal.com](https://skraeddar.torminal.com) or want an offline version, just host it yourself with npm (use the installation instructions in this ReadMe).  
+If you dont trust the website [skraedda.torminal.com](https://skraedda.torminal.com) or want an offline version, just host it yourself with npm (use the installation instructions in this ReadMe).  
 **The name**  
-The name "Skräddar" comes from the swedish word skräddarsydd, which means "tailored" - i thought, this is a fitting title for a project like this!  
+The name "Skrädda" comes from the swedish word skräddarsydd, which means "tailored" - i thought, this is a fitting title for a project like this!  
 **The inspiration**  
-Also visit https://skapa.build/ - Skräddar is strongly inspired from it (it doesnt look as nice as skapa, but anyways..) and allows you to create customized boxes you can integrate on SKADIS.  
+Also visit https://skapa.build/ - Skrädda is strongly inspired from it (it doesnt look as nice as skapa, but anyways..) and allows you to create customized boxes you can integrate on SKADIS.  
 
 ## Installation 
-### 📋 Prerequisites
+### Prerequisites
 
 Before you begin, make sure you have the following installed on your computer:
 
@@ -40,7 +40,7 @@ node --version
 npm --version
 ```
 
-### 🚀 Installation Steps
+### Installation Steps
 
 1. Extract the downloaded ZIP file from this repo to your desired location.
 2. Open Terminal/Command Prompt
@@ -69,16 +69,16 @@ npm run dev
 http://localhost:5173
 ```
 
-🎉 **You should now see the SKÅDIS Generator running!**  
+**You should now see Skrädda running!**  
 
-### 📦 Building for Production  
+### Building for Production  
 1. To create a production-ready build:  
 ```bash
 npm run build
 ```
 2. The built files will be in the `dist/` folder. You can upload these files to any web hosting service.  
 
-### 🐛 Troubleshooting  
+### Troubleshooting  
 
 "command not found: npm"  
 - Install Node.js from [nodejs.org](https://nodejs.org/)
@@ -96,7 +96,7 @@ Three.js warnings
 - These are normal and don't affect functionality  
 - The project uses Three.js r128 for compatibility  
 
-## 🤝 Credits  
+## Credits  
 
 - Built with the help of [Claude AI](https://claude.ai)
 - Impressum: [torminal.com/impressum](https://torminal.com/impressum/)
