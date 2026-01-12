@@ -1,7 +1,7 @@
 # Skrädda: A custom pegboard generator for 3D Printing
 Need to create a specific pegboard for 3D Printing? Use the Skräddar generator to get your desired dimensions (export as .stl)!
 
-| :zap:        Visit [skraeddar.torminal.com](https://skraeddar.torminal.com) to view this project  |
+| :zap:        Visit [skraedda.torminal.com](https://skraedda.torminal.com) to view this project  |
 |------------------------------------------|
 
 ---
